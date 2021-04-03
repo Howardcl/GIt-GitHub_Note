@@ -87,3 +87,25 @@ git rm 文件名
 git clone 仓库地址
 
 **2.将本地仓库同步到Git远程仓库中**
+
+git push
+
+### <span style='color:red;background:white;font-size:28;font-family:楷体;'>3.4 Github Pages搭建网站</span>
+
+个人站点访问：
+
+https://用户名.github.io
+
+**搭建步骤**
+
+1）创建个人站点 -> 新建仓库（仓库名必须是【用户名.github.io】）
+
+2）在仓库下新建index.html的文件即可
+
+![image-20210403180114906](C:\Users\chenlin\AppData\Roaming\Typora\typora-user-images\image-20210403180114906.png)
+
+1.GitHub pages仅支持静态网页
+
+2.仓库里面只能是html文件
+
+![image-20210403180940968](C:\Users\chenlin\AppData\Roaming\Typora\typora-user-images\image-20210403180940968.png)
