@@ -32,4 +32,58 @@ git add hello.php :将文件从工作区添加到暂存区
 
 git commit -m "提交描述"：从暂存区提交到仓库
 
-<span style='color:red;background:white;font-size:28;font-family:楷体;'>3.2 Git初始化及仓库创建操作</span>
+### <span style='color:red;background:white;font-size:28;font-family:楷体;'>3.2 Git初始化及仓库创建操作</span>
+
+**基本信息设置**
+
+1.设置用户名
+
+git config --global user.name 'Howardcl'
+
+2.设置用户名邮箱
+
+git config --global user.email 'linchenusc@163.com'
+
+**初始化一个新的Git仓库**
+
+1、创建文件夹 test
+
+2、在文件夹内初始化仓库
+
+git init
+
+初始化之后，生成一个.git文件
+
+3、向仓库中添加文件流程
+
+（1）先创建文件
+
+  (2）添加到暂存区
+
+  (3) 将文件从暂存区提交到仓库
+
+**修改仓库文件**
+
+**删除仓库文件**
+
+rm 文件名
+
+git rm 文件名
+
+### <span style='color:red;background:white;font-size:28;font-family:楷体;'>3.3 Git管理远程仓库</span>
+
+使用远程操作的目的：
+
+1.备份
+
+2.实现共享
+
+**将本地仓库同步到git远程仓库中**：git push
+
+#### **Git克隆操作：**
+
+**1.将GitHub项目下载到本地**
+
+git clone 仓库地址
+
+**2.将本地仓库同步到Git远程仓库中**
