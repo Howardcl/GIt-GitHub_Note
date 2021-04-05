@@ -102,10 +102,10 @@ https://用户名.github.io
 
 2）在仓库下新建index.html的文件即可
 
-![image-20210403180114906](C:\Users\chenlin\AppData\Roaming\Typora\typora-user-images\image-20210403180114906.png)
+![image-20210403180114906](https://github.com/Howardcl/GIt-GitHub_Note/edit/master/image-20210403180114906.png)
 
 1.GitHub pages仅支持静态网页
 
 2.仓库里面只能是html文件
 
-![image-20210403180940968](C:\Users\chenlin\AppData\Roaming\Typora\typora-user-images\image-20210403180940968.png)
+![image-20210403180940968](https://github.com/Howardcl/GIt-GitHub_Note/edit/master/image-20210403180940968.png)
